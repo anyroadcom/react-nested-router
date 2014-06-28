@@ -1,3 +1,9 @@
+v0.2.1
+Sat, 28 Jun 2014 21:53:57 GMT
+
+f3dcdd7 [fixed] injectParams invariant should not throw on values that coerce to false.
+
+
 v0.2.0
 Tue, 24 Jun 2014 04:59:24 GMT
 
