@@ -1,0 +1,26 @@
+{
+  "name": "react-nested-router",
+  "version": "0.2.1",
+  "description": "A complete routing library for React",
+  "tags": [
+    "react",
+    "router"
+  ],
+  "main": "modules/main.js",
+  "scripts": ["modules/**/*.js"],
+  "repository": "https://github.com/anyroadcom/react-nested-router.git",
+  "license": "MIT",
+
+  "authors": [
+    "Ryan Florence",
+    "Michael Jackson"
+  ],
+
+  "dependencies": {
+    "anyroadcom/es6-promise": "^1.0.0",
+    "anyroadcom/event-emitter": "^0.3.2",
+    "component/querystring": "^1.0.0",
+    "anyroadcom/component-react": "*"
+  }
+}
+
